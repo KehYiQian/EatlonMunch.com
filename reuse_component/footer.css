@@ -1,0 +1,19 @@
+#footer {
+    background-color: rgb(18, 18, 18);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow', sans-serif;
+}
+
+#footer1 {
+    background-color: rgb(18, 18, 18);
+
+}
+
+#footer1 p,
+#footer1 ul {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#footer2 {
+    background-color: black;
+
+}
